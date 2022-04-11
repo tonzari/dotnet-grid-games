@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridBasedGames", "GridBasedGames\GridBasedGames.csproj", "{8FAA00C9-8F09-4E8F-8476-DC1B3A11CC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FAA00C9-8F09-4E8F-8476-DC1B3A11CC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAA00C9-8F09-4E8F-8476-DC1B3A11CC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAA00C9-8F09-4E8F-8476-DC1B3A11CC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAA00C9-8F09-4E8F-8476-DC1B3A11CC86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1583C42E-B64C-4D91-BD77-FBF5F3E413B6}
+	EndGlobalSection
+EndGlobal
